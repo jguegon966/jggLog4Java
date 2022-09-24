@@ -1,0 +1,6 @@
+[2022-09-24 18:44:40] [ INFO ] [Main:16] El valor de la cadena es {hola mundo} y la de mi entero es {7}
+[2022-09-24 18:44:40] [ DEBUG] [Main:18] LOG DEBUG
+[2022-09-24 18:44:40] [ INFO ] [Main:19] LOG INFO
+[2022-09-24 18:44:40] [ WARN ] [Main:20] LOG WARNING
+[2022-09-24 18:44:40] [ ERROR] [Main:21] LOG ERROR
+[2022-09-24 18:44:40] [ FATAL] [Main:22] LOG FATAL
